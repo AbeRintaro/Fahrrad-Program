@@ -10,8 +10,8 @@
 #include "esp_camera.h"
 
 
-const char* ssid     = "aterm-fe5c64-g";   //your network SSID
-const char* password = "957b5b5b361f7";   //your network password
+const char* ssid     = "";   //your network SSID
+const char* password = "";   //your network password
 const char* myDomain = "script.google.com";
 String myScript = "/macros/s/AKfycbzS940sSyttC3LUaEtSy43yhiii5M_dCu6rXcESedA97wXQi6a_jOdiwj3zjHEhOHm7/exec";    //Replace with your own url
 String myFilename = "filename=ESP32-CAM.jpg";
